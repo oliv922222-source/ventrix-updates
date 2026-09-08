@@ -1,13 +1,9 @@
 {
-  "version": "2.0.26",
+  "version": "2.0.28",
   "release_date": "2026-09-08",
   "changelog": [
-    "Discord og Medal.tv integration med officielle brand logoer",
-    "Aflang glass dock i topbar",
-    "Klip gameplay 15s, 30s, 1m, 2m, 5m",
-    "Discord mute og deafen kontrol",
-    "Nul emojis"
+    "Automatisk opdatering"
   ],
-  "download_url": "https://raw.githubusercontent.com/oliv922222-source/ventrix-updates/main/updates/VENTRIX_Update_v2.0.26.zip",
-  "package_file": "updates/VENTRIX_Update_v2.0.26.zip"
+  "download_url": "https://raw.githubusercontent.com/oliv922222-source/ventrix-updates/main/updates/VENTRIX_Update_v2.0.28.zip",
+  "package_file": "updates/VENTRIX_Update_v2.0.28.zip"
 }
