@@ -3,7 +3,8 @@
   "release_date": "2026-09-08",
   "changelog": [
     "Licensaktivering ved forste opstart",
-    "Forbedret Apple Glass velkomstskaerm"
+    "Forbedret Apple Glass velkomstskaerm",
+    "Qt stabilitetsrettelse"
   ],
   "download_url": "https://raw.githubusercontent.com/oliv922222-source/ventrix-updates/main/updates/VENTRIX_Update_v2.0.8.zip",
   "package_file": "updates/VENTRIX_Update_v2.0.8.zip"
