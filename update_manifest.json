@@ -1,9 +1,9 @@
 {
-  "version": "2.0.9",
+  "version": "2.0.10",
   "release_date": "2026-09-08",
   "changelog": [
-    "Automatisk opdatering"
+    "Fix fade_in animation on startup"
   ],
-  "download_url": "https://raw.githubusercontent.com/oliv922222-source/ventrix-updates/main/updates/VENTRIX_Update_v2.0.9.zip",
-  "package_file": "updates/VENTRIX_Update_v2.0.9.zip"
+  "download_url": "https://raw.githubusercontent.com/oliv922222-source/ventrix-updates/main/updates/VENTRIX_Update_v2.0.10.zip",
+  "package_file": "updates/VENTRIX_Update_v2.0.10.zip"
 }
