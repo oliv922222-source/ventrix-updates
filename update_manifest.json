@@ -1,9 +1,9 @@
 {
-  "version": "2.3.5",
+  "version": "2.3.7",
   "release_date": "2026-09-08",
   "changelog": [
     "Automatisk opdatering"
   ],
-  "download_url": "https://raw.githubusercontent.com/oliv922222-source/ventrix-updates/main/updates/VENTRIX_Update_v2.3.5.zip",
-  "package_file": "updates/VENTRIX_Update_v2.3.5.zip"
+  "download_url": "https://raw.githubusercontent.com/oliv922222-source/ventrix-updates/main/updates/VENTRIX_Update_v2.3.7.zip",
+  "package_file": "updates/VENTRIX_Update_v2.3.7.zip"
 }
