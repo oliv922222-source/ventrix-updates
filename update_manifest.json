@@ -2,8 +2,8 @@
   "version": "2.0.8",
   "release_date": "2026-09-08",
   "changelog": [
-    "Licensaktivering tilføjet på velkomstskærm",
-    "Hurtigere opstart og Apple Glass design"
+    "Høj kontrast og tydeligt licensfelt",
+    "Bedre velkomstskærm"
   ],
   "download_url": "https://raw.githubusercontent.com/oliv922222-source/ventrix-updates/main/updates/VENTRIX_Update_v2.0.8.zip",
   "package_file": "updates/VENTRIX_Update_v2.0.8.zip"
