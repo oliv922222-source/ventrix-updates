@@ -1,11 +1,9 @@
 {
-  "version": "2.5.0",
+  "version": "2.5.1",
   "release_date": "2026-09-29",
   "changelog": [
-    "Komplet Stream Deck glas-redesign af opdaterings- og aktiveringsdialoger",
-    "Knivskarpe vektor-afrundede knapper og Apple close-knap uden manglende tegn",
-    "Officielt 3D Stream Deck hardware-ikon med status-badges"
+    "Automatisk opdatering"
   ],
-  "download_url": "https://raw.githubusercontent.com/oliv922222-source/ventrix-updates/main/updates/VENTRIX_Update_v2.5.0.zip",
-  "package_file": "updates/VENTRIX_Update_v2.5.0.zip"
+  "download_url": "https://raw.githubusercontent.com/oliv922222-source/ventrix-updates/main/updates/VENTRIX_Update_v2.5.1.zip",
+  "package_file": "updates/VENTRIX_Update_v2.5.1.zip"
 }
